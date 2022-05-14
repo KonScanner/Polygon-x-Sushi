@@ -1,0 +1,8 @@
+{
+	"SUSHI": {
+		"TVL": "https://api.llama.fi/protocol/sushiswap"
+	},
+	"POLYGON": {
+		"TVL": "https://api.llama.fi/charts/Polygon"
+	}
+}
